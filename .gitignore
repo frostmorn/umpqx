@@ -1,0 +1,5 @@
+StormLib/cmake_*
+*.cmake
+StormLib/CMake*
+StormLib/libstorm.a
+StormLib/Makefile
